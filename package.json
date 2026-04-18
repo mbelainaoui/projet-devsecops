@@ -1,0 +1,11 @@
+{
+  "name": "projet-devsecops",
+  "version": "1.0.0",
+  "description": "Mini projet DevSecOps",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "El Mehdi Belainaoui",
+  "license": "ISC"
+}
